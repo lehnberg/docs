@@ -9,7 +9,7 @@ on:
 
 jobs:
 
-  prettier & link check:
+  linter:
     runs-on: ubuntu-latest
 
     steps:
